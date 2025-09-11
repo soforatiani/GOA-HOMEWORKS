@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Downloads/testimonials-grid-section-main/testimonials-grid-section-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "testimonials-grid-section-main"
+	}
+}
